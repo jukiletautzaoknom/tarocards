@@ -5,7 +5,7 @@ from telegram import ParseMode
 import tarodata
 import random
 
-TOKEN = '5803022174:AAGoRJr-iUJu0Wsq6q8UmoSnQA7SeUvNKVA'
+TOKEN = 'TOKEN'
 
 bot = telebot.TeleBot(TOKEN)
 
